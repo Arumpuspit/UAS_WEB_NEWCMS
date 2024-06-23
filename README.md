@@ -1,6 +1,8 @@
 # UAS_WEB_NEWCMS
 Access Web: http://arecipe.great-site.net/
 
+cr yt: EGATOR
+
 Tampilan halaman pengunjung:
 ![image](https://github.com/Arumpuspit/UAS_WEB_NEWCMS/assets/115858250/bba94af0-1827-45d6-9165-c1e43b28f449)
 
